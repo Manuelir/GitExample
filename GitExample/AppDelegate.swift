@@ -17,6 +17,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         print("HA arrancado la aplicación")
         print("CAMBIO EN DEVELOP")
+        print("CAMBIO EN REMOTO")
         return true
     }
 
